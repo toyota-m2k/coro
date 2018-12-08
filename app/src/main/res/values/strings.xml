@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Coro</string>
+    <string name="first_button">Button</string>
+    <string name="clear">Clear</string>
+</resources>
